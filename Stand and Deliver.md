@@ -1,0 +1,2 @@
+Movie: Stand and Deliver
+Review: This film is about a highschool math teacher named Jaime Escalante who teaches in a highschool where there is a heavy hispanic population in East Los Angeles. His class are believed to be hopeless but Jaime believes his students can succeed and helps them pass the Advanced Placement exan in calculus. After many hardships and even investigation into his class, all the students are able to pass the exam.
